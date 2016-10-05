@@ -1,2 +1,2 @@
 # hello-word
-test github reade-edit
+test github readme-edit
